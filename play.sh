@@ -1,5 +1,5 @@
 #!/bin/bash
- 
+ #This script finds video file using search substring and plays it
 printf "\n\tWhich File you wanna play?: "
 read file_name
 echo -e "\tYou entered file : $file_name \n\nMy search shows following possibilities:\n\nNo.| \t Name"
