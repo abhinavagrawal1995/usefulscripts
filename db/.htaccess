@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "This is the Batcave"
+AuthUserFile /home/admin/web/mitportals.in/public_html/db/.htpasswd  
+Require valid-user
