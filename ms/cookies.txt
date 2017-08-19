@@ -1,0 +1,24 @@
+# Cookies for domains related to usnews.com.
+# This content may be pasted into a cookies.txt file and used by wget
+# Example:  wget -x --load-cookies cookies.txt https://www.usnews.com/best-graduate-schools/search?sort=rank_sort&sortdir=asc&program=top-computer-science-schools&page=1
+#
+.usnews.com	TRUE	/	FALSE	1503156740.01452	ak_bmsc	9A40686D23863271AA56C0815A39A2CF170F2124AD390000E43D98599989351A~plhCVqDEzM90Su86AqQ2Nlgkemo/K62eXRqiujv1pbpiCoq7SFqjFbCRNjM+vf2R/NvMwGIpt82o/KZ8YYwrFnMoInCzos1uR4kI06FBP+Jlg76gTrZT6NrhADP3pwUchYd/UcQG+m247ysPkNs60uVD1FmyZ7frLRYX+9uhzxffJPKawrR7d9NBNW/DtwfbSWDSTEK38WMPvPNxPT9FHTJ+gMU3Yn9YbqamL/NIqvC+s=
+www.usnews.com	FALSE	/	FALSE	0	HTML_VisitCountCookie	NaN
+www.usnews.com	FALSE	/	FALSE	1503151944	__ybotb	9597
+www.usnews.com	FALSE	/	FALSE	1505743644	__ybotu	j6jcfhjazxyggfrnku
+www.usnews.com	FALSE	/	FALSE	1505743644	__ybotv	1503151644201
+www.usnews.com	FALSE	/	FALSE	1503151944	__ybots	j6jdl0x5oo8quc5xvx.0.j6jdofmxemxnhpizi6.4
+www.usnews.com	FALSE	/	FALSE	1503151945	__ybotc	http%3A//ads-adseast-vpc.yldbt.com/m/
+www.usnews.com	FALSE	/	FALSE	1503151945	__ybotn	1
+www.usnews.com	FALSE	/	FALSE	87903151645	usn_grad_interstitial	2
+.usnews.com	TRUE	/	FALSE	1503156746.195132	bm_sv	CC25F959A4A91BF8D0312C6F36819CDC~8vjUBP0VHRURQOePjL9x4SWQmjc/X/Hv3zBT8Z26PmnN/0XMkAEdMNFrA5c2he3HbDYNjtOl8t9tbVHd3S71SIVhoI9jcP7C/pZv3RS/kXHzq+2DZCMrUirpIajBizg8MY33g0AJenkztQ141SUd6ViCpeISFjnEp6fxH0xbvok=
+.usnews.com	TRUE	/	FALSE	0	s_cc	true
+.usnews.com	TRUE	/	FALSE	1566223646	s_fid	784C49D370530431-0E83FDD0FFE59F23
+.usnews.com	TRUE	/	FALSE	0	s_sq	%5B%5BB%5D%5D
+.usnews.com	TRUE	/	FALSE	1503151706	_gat_tealium_0	1
+.usnews.com	TRUE	/	FALSE	1566223646	_ga	GA1.2.2060875525.1503149542
+.usnews.com	TRUE	/	FALSE	1503238046	_gid	GA1.2.912628371.1503149542
+.usnews.com	TRUE	/	FALSE	1503151706	_gat_tealium_1	1
+.usnews.com	TRUE	/	FALSE	1534687647	utag_main	v_id:015dfab1c6b400118f9e4e50e7b60406900170610086e$_sn:1$_ss:0$_pn:9%3Bexp-session$_st:1503153445515$ses_id:1503149541044%3Bexp-session$dc_visit:1$dc_event:10%3Bexp-session$dc_region:eu-central-1%3Bexp-session
+.usnews.com	TRUE	/	FALSE	1566223676	_sp_id.26f9	d5bd107e5ff828ea.1503149558.1.1503151677.1503149558
+.usnews.com	TRUE	/	FALSE	1503153476	_sp_ses.26f9	*
